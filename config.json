@@ -1,0 +1,7 @@
+{
+  "url": "https://reservation-spa.yonahotel.com/",
+  "target_date": "2026-10-08",
+  "people": 2,
+  "notification": "telegram",
+  "errors_before_alert": 3
+}

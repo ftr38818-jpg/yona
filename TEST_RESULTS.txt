@@ -1,0 +1,27 @@
+test_all_missing_markers_unknown (test_monitor.AdapterTests.test_all_missing_markers_unknown) ... ok
+test_both_formulas (test_monitor.AdapterTests.test_both_formulas) ... ok
+test_broken_grid_unknown (test_monitor.AdapterTests.test_broken_grid_unknown) ... ok
+test_busy_page_unknown (test_monitor.AdapterTests.test_busy_page_unknown) ... ok
+test_conflicting_status_unknown (test_monitor.AdapterTests.test_conflicting_status_unknown) ... ok
+test_css_pseudo_markers (test_monitor.AdapterTests.test_css_pseudo_markers) ... ok
+test_day (test_monitor.AdapterTests.test_day) ... ok
+test_explicitly_disabled (test_monitor.AdapterTests.test_explicitly_disabled) ... ok
+test_missing_legends_unknown (test_monitor.AdapterTests.test_missing_legends_unknown) ... ok
+test_next_month_eighth_does_not_match (test_monitor.AdapterTests.test_next_month_eighth_does_not_match) ... ok
+test_night (test_monitor.AdapterTests.test_night) ... ok
+test_unavailable_with_other_valid_markers (test_monitor.AdapterTests.test_unavailable_with_other_valid_markers) ... ok
+test_wrong_month (test_monitor.AdapterTests.test_wrong_month) ... ok
+test_wrong_people (test_monitor.AdapterTests.test_wrong_people) ... ok
+test_additional_formula_notifies (test_monitor.StateTests.test_additional_formula_notifies) ... ok
+test_available_no_spam_reappears (test_monitor.StateTests.test_available_no_spam_reappears) ... ok
+test_changed_target_reinitializes (test_monitor.StateTests.test_changed_target_reinitializes) ... ok
+test_error_keeps_previous_availability (test_monitor.StateTests.test_error_keeps_previous_availability) ... ok
+test_initial_unavailable_notifies_once (test_monitor.StateTests.test_initial_unavailable_notifies_once) ... ok
+test_click_wait_and_available (test_navigation.NavigationTests.test_click_wait_and_available) ... skipped 'Optional HTTP tests; require a browser allowed to reach localhost.'
+test_click_wait_and_unavailable (test_navigation.NavigationTests.test_click_wait_and_unavailable) ... skipped 'Optional HTTP tests; require a browser allowed to reach localhost.'
+test_failed_data_request_is_not_unavailable (test_navigation.NavigationTests.test_failed_data_request_is_not_unavailable) ... skipped 'Optional HTTP tests; require a browser allowed to reach localhost.'
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.940s
+
+OK (skipped=3)
